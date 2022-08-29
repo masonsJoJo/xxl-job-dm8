@@ -1,6 +1,8 @@
 .idea
 .classpath
 .project
+*-local.yml
+*-local.properties
 *.iml
 target/
 .DS_Store
